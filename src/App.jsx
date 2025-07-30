@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Homepage from './Pages/Homepage'
 import './App.css'
+import VoiceAiPage from './Pages/VoiceAiPage'
 
 function App() {
   return (
